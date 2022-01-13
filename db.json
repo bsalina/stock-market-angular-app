@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "stock_name": "sbi",
+      "status": "buy",
+      "quantity": "120",
+      "amount": "550",
+      "date": "11/1/2021"
+    },
+    {
+      "id": 9,
+      "stock_name": "nic",
+      "status": "buy",
+      "quantity": "120",
+      "amount": "500",
+      "date": "12.1.2021"
+    },
+    {
+      "id": 10,
+      "stock_name": "standard chartered",
+      "status": "sell",
+      "quantity": "120",
+      "amount": "600",
+      "date": "21/12/2021"
+    },
+    {
+      "id": 11,
+      "stock_name": "kumari",
+      "status": "buy",
+      "quantity": "200",
+      "amount": "500",
+      "date": "10/12/2020"
+    },
+    {
+      "id": 12,
+      "stock_name": "abc",
+      "status": "sell",
+      "quantity": "500",
+      "amount": "600",
+      "date": "12/12/21"
+    },
+    {
+      "id": 13,
+      "stock_name": "sus",
+      "status": "sell",
+      "quantity": "500",
+      "amount": "500",
+      "date": "1.12.21"
+    },
+    {
+      "id": 14,
+      "stock_name": "bajra tech",
+      "status": "buy",
+      "quantity": "120",
+      "amount": "500",
+      "date": "12/12/21"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
